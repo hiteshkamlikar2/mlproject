@@ -1,0 +1,64 @@
+# Machine Learning Algorithms Notebooks
+
+Welcome to the Machine Learning Algorithms repository! This folder contains Jupyter Notebook files that demonstrate various machine learning algorithms and techniques. Each notebook includes code examples, explanations, and visualizations to help you understand the concepts better.
+
+## **Table of Contents**
+
+- [1. Linear Regression](#1-linear-regression)
+- [2. Logistic Regression](#2-logistic-regression)
+- [3. Decision Trees](#3-decision-trees)
+- [4. Support Vector Machines](#4-support-vector-machines)
+- [5. K-Means Clustering](#5-k-means-clustering)
+- [6. Neural Networks](#6-neural-networks)
+
+## **1. Linear Regression**
+This notebook covers the basics of linear regression, including:
+- The mathematical foundation
+- Implementation using Python's `scikit-learn`
+- Visualization of results
+
+## **2. Logistic Regression**
+In this notebook, you'll learn about logistic regression for binary classification:
+- Understanding the logistic function
+- Model training and evaluation
+- Practical examples
+
+## **3. Decision Trees**
+Explore decision trees in this notebook:
+- How decision trees work
+- Overfitting and pruning techniques
+- Hands-on implementation with examples
+
+## **4. Support Vector Machines**
+This notebook introduces Support Vector Machines (SVM):
+- The theory behind SVMs
+- Kernel functions and their applications
+- Example classification tasks
+
+## **5. K-Means Clustering**
+Learn about K-Means clustering:
+- The clustering algorithm explained
+- Choosing the right number of clusters
+- Visualizing clusters in 2D space
+
+## **6. Neural Networks**
+Dive into neural networks with this comprehensive notebook:
+- Basics of neural networks and deep learning
+- Building a simple neural network using TensorFlow/Keras
+- Training and evaluating the model
+
+## **Getting Started**
+
+To run these notebooks, make sure you have the following installed:
+
+1. Python (version 3.x)
+2. Jupyter Notebook
+3. Required libraries:
+   - `numpy`
+   - `pandas`
+   - `matplotlib`
+   - `scikit-learn`
+   - `tensorflow` (for neural networks)
+
+You can install the required libraries using pip:
+
